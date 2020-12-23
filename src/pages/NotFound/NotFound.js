@@ -1,6 +1,6 @@
-import React from "react";
+import React from 'react';
 
-import MainLayout from "@/layouts/MainLayout/MainLayout";
+import MainLayout from '@/layouts/MainLayout/MainLayout';
 
 const NotFound = (props) => {
   return (
